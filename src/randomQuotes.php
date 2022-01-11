@@ -7,7 +7,7 @@
     public function getRandomQuotes() {
 
       // Get the list of quotes.
-      $quotes = file_get_contents( __DIR__ . '/../inc/quotes.json' );
+      $quotes = file_get_contents( __DIR__ . '/../quotes/quotes.json' );
       // Convert JSON document to PHP array.
       $quotes = json_decode( $quotes, true );
       // Get a random index number.
