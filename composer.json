@@ -1,17 +1,15 @@
 {
-    "name": "hp/get-random-quotes",
+    "name": "get-random-quotes",
     "description": "This Library Generate Random Qutations for you.",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Hp\\GetRandomQuotes\\": "src/"
+            "GetRandomQuotes\\": "src/"
         }
     },
-    "authors": [
-        {
-            "name": "TentuRaghukumar",
-            "email": "tentu@leewayhertz.com"
-        }
-    ],
+    "authors": [{
+        "name": "TentuRaghukumar",
+        "email": "tentu@leewayhertz.com"
+    }],
     "require": {}
 }
