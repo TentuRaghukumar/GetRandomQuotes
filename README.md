@@ -1,2 +1,2 @@
 # GetRandomQuotes
-this Repository Generate Random Quotations.
+This Repository Generate Random Quotations For You.
