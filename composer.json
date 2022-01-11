@@ -1,5 +1,5 @@
 {
-    "name": "getrandomquotes",
+    "name": "TentuRaghukumar/getrandomquotes",
     "description": "This Library Generate Random Qutations for you.",
     "type": "library",
     "autoload": {
